@@ -1,4 +1,6 @@
 # 紫微斗数 · 断命经 / Zi Wei Dou Shu · Divination Canon
+
+建议只拿来看偏财和女命，其他的未测试，准确率无具体数据
 ---
 
 ## 内容结构 / Contents
