@@ -1,11 +1,4 @@
 # 紫微斗数 · 断命经 / Zi Wei Dou Shu · Divination Canon
-
-> 玄微子（Hermes AI Skill）｜底本：陈抟《紫微斗数全书》｜License: CC0
-
-**玄微子断命经** —— 一部以陈抟（希夷先生）传本《紫微斗数全书》143 页扫描本 OCR 全文为底本的紫微斗数断命 Skill（Hermes Agent skill）。凡断紫微斗数之命，先查本经，再下断语。
-
-**The Divination Canon of Master Xuanwei** — a Zi Wei Dou Shu (Purple Star Astrology) divination skill for Hermes Agent, grounded in the full OCR text of the 143-page scanned edition of *Zi Wei Dou Shu Quan Shu* (Complete Book of Zi Wei Dou Shu) attributed to Chen Tuan. Consult this canon before making any chart reading.
-
 ---
 
 ## 内容结构 / Contents
@@ -25,7 +18,6 @@
 2. **看身主**：吉凶生克（身宫定根基）。
 3. **看迁移、财帛、官禄**：三方四正的刑冲克破。
 4. **看福德宫**：权禄劫空庙陷——定人心性与晚福。
-5. **断盘次序，破限优先**：先查破限之象（官司牢狱、偏门、赌运、毒瘾、桃花外遇、短命横死、克夫克妻、无后、妖邪、背刺、心魔、绝境、自作孽），有则优先讲透；基础断语靠后。
 
 ## 安装 / Installation
 
